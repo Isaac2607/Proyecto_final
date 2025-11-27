@@ -22,11 +22,9 @@ Bot de discord
 1.python-dotenv
 2.aiohttp
 
-# Referencias 
+# Referencias usadas para el codigo
 1.Chatgpt
 
-# Articulos
+# Articulos de guia
 Link:\https://documenter.getpostman.com/view/10601972/TVev6RW8#6dbedc9d-c06e-4ce5-ba6e-93c43682dcd7
 
-# API
-link:https://codigonautas.com/como-hacer-una-calculadora-en-python/
